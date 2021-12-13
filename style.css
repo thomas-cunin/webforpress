@@ -1,0 +1,26 @@
+/*
+Theme Name: My Theme
+*/
+html body {
+    padding:0!important;
+    margin:0!important;
+}
+.header{
+    padding-top:2rem;
+    padding:1.5rem;
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+    align-items:center;
+}
+.header .title{
+    font-size: 22px;
+    font-width:4px;
+
+}
+#content{
+    padding:0.4rem;
+}
+
